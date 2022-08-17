@@ -1,0 +1,15 @@
+nav {
+    background-color: #C0C0C0;
+    display: inline-flexbox;
+
+}
+
+h1 {
+    font-family:courier,arial,helvetica;
+}
+
+img {
+    position: relative;
+    width: 30%;
+}
+
